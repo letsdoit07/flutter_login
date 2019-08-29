@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "653794166937",
+    "firebase_url": "https://flutter-project-6d11b.firebaseio.com",
+    "project_id": "flutter-project-6d11b",
+    "storage_bucket": "flutter-project-6d11b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653794166937:android:f5523f2cad8d14d3",
+        "android_client_info": {
+          "package_name": "com.retroportalstudio.www.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653794166937-lm4gbs8ocurfgut8cjdbgp6usg757dc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaA2HFw0DV78eoNGBU8RKkPdmGiNlbD0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653794166937-lm4gbs8ocurfgut8cjdbgp6usg757dc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653794166937:android:ed15d2253a5a283f",
+        "android_client_info": {
+          "package_name": "com.retroportalstudio.www.flutter_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653794166937-lm4gbs8ocurfgut8cjdbgp6usg757dc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaA2HFw0DV78eoNGBU8RKkPdmGiNlbD0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653794166937-lm4gbs8ocurfgut8cjdbgp6usg757dc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653794166937:android:3c5e559cfed565e4",
+        "android_client_info": {
+          "package_name": "com.retroportalstudio.www.sample_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653794166937-lm4gbs8ocurfgut8cjdbgp6usg757dc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaA2HFw0DV78eoNGBU8RKkPdmGiNlbD0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653794166937-lm4gbs8ocurfgut8cjdbgp6usg757dc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
